@@ -1,0 +1,9 @@
+c:\users\ihsan\documents\visual studio 2015\Projects\black jack\black jack\bin\Debug\black jack.exe.config
+c:\users\ihsan\documents\visual studio 2015\Projects\black jack\black jack\bin\Debug\black jack.exe
+c:\users\ihsan\documents\visual studio 2015\Projects\black jack\black jack\bin\Debug\black jack.pdb
+c:\users\ihsan\documents\visual studio 2015\Projects\black jack\black jack\obj\Debug\black_jack.Form1.resources
+c:\users\ihsan\documents\visual studio 2015\Projects\black jack\black jack\obj\Debug\black_jack.Properties.Resources.resources
+c:\users\ihsan\documents\visual studio 2015\Projects\black jack\black jack\obj\Debug\black jack.csproj.GenerateResource.Cache
+c:\users\ihsan\documents\visual studio 2015\Projects\black jack\black jack\obj\Debug\black jack.exe
+c:\users\ihsan\documents\visual studio 2015\Projects\black jack\black jack\obj\Debug\black jack.pdb
+c:\users\ihsan\documents\visual studio 2015\Projects\black jack\black jack\obj\Debug\black jack.csprojResolveAssemblyReference.cache
